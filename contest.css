@@ -1,0 +1,94 @@
+.mainDiv{
+height: 2358px;
+width: 1728px;
+left: -864px;
+top: -559px;
+border-radius: 0px;
+background: #FFFFFF;
+
+
+}
+.group1{
+height: 661px;
+width: 1643px;
+
+border-radius: 0px;
+border: 2px solid #000000;
+}
+.group1-part1{
+    height: 648.5709228515625px;
+width: 1643px;
+margin-left: 38px;
+border-radius: 0px;
+margin-top: 47px;
+margin-right: 47px;
+
+text-align: inside;
+}
+.group1-text1{
+    height: 613.5435791015625px;
+width: 1540.5126953125px;
+border-radius: nullpx;
+
+}
+.h{
+    Font:Inter;
+font-weight:700;
+/*font-style:italic;*/
+Size:40px;
+line-height:48.41px;
+vertical-align: Top;
+
+}
+.p{
+    font:inter;
+font-weight:400;
+font-size:32px;
+line-height:38.73px;
+}
+.group2{
+    height: 894px;
+width: 1051px;
+margin-left: 58px;
+margin-top: 46.43px;
+border-radius: 0px;
+font-family: Inter;
+font-style: Bold;
+font-size: 64px;
+line-height: 77px;
+line-height: 100%;
+
+}
+
+.dog{
+    height: 762px;
+width: 1051px;
+margin-top: 55px;
+border-radius: 0px;
+}
+.more{
+    margin-top: 34px;
+    Width:245px;
+    height:48px;
+    font-size: 40px;
+    margin-bottom: 77px;
+}
+.group3{
+    Width:1623px;
+Height:469px;margin-left: 58px;padding-top: 77px;margin-right: 47px;margin-bottom: 97px;
+
+}
+a{
+    color: black;
+}
+.o{
+    Font:Inter;
+font-weight:400;
+font-size:40px;
+line-height:48.41px;
+}
+.t{font:Inter;
+    font-weight:700;
+    font-size:64px;
+    
+}
